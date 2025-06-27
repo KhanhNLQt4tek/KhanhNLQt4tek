@@ -28,7 +28,7 @@
 ### 🛠️ Languages and Tools:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,py,java,js,ts,html,css,react,vite,nextjs,figma,nodejs,docker,linux,powershell,vscode,latex,arduino,php,bootstrap,tailwind,scss,matlab,r,git,github,firebase,postman,mysql,mongodb,appwrite,webstorm,babel,discord"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,java,js,ts,html,css,react,vite,nextjs,figma,nodejs,docker,linux,powershell,vscode,latex,arduino,php,bootstrap,tailwind,scss,matlab,r,git,github,firebase,postman,mysql,mongodb,appwrite,webstorm,babel,discord,laravel"/>
 </p>
 
 ---
